@@ -1,4 +1,1 @@
-dummy-pipeline/
-├── clients/
-│   ├── jira_client.py      # fetch bugs/stories
-│   └── qtest_client.py     # fetch test runs
+need a new plan, this one is dumped, need 14 days trial for qtest
